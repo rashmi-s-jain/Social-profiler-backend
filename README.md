@@ -10,3 +10,6 @@ Please make sure that you have pre-installed mongodb if not please refer `https:
 
 ## Features
 Login, Register and Login with google.
+
+## MongoDB
+For database, no need of any dump file. When you register yourself then automatically DB will be created.
